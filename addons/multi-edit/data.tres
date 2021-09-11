@@ -1,0 +1,7 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://addons/multi-edit/data.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+selection_color = Color( 0.239216, 1, 0.607843, 0.423529 )
